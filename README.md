@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-este es un repositorio de prueba de Henry
+Este es para probar como clonar un archivo de GitHub y hacer mi primer commit
